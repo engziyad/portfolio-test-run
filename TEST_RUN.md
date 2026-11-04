@@ -1,7 +1,7 @@
 ﻿# تقرير تجربة تشغيل مشروع Raseel-Almutairi/portfolio
 
 - المنفذ: engziyad
-- التاريخ: 2026-11-04 18:33
+- التاريخ: 2026-11-04 18:47
 - اداة المقارنة: Excel
 
 ## النتائج
@@ -17,5 +17,6 @@
 - العينة: رئيسية 297 مطبق 102 لا ينطبق 12 | النسبة باستبعاد لا ينطبق 35.79% وبدونه 34.34%
 - ورقة MainControls في العينة: مطبق 102 لا ينطبق 12 من 297
 - حالة الضوابط الرئيسية في الورقة متوافقة مع المنهجية المعلنة
-- الاداة تعمل على http://localhost:8788/ وتم فتحها في المتصفح
-- !! فشلت خطوة المقارنة التشغيلية: The process cannot access the file '~\Documents\Raseel-Portfolio-Test\3_Sample_Data.xlsx' because it is being used by another process.
+- الاداة تعمل على http://localhost:8789/ وتم فتحها في المتصفح
+- Power BI غير متوفر وتم فتح ملف العينة وسجل الامتثال في Excel من ~\Documents\Raseel-Portfolio-Test
+- قارن ورقة MainControls مع الاحتساب: مطبق 102 لا ينطبق 12 من 297
